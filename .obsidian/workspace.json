@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "03e7628181243f4e",
+        "id": "e3d5b8cf7229eae0",
         "type": "tabs",
         "children": [
           {
-            "id": "5ca26911a7076d19",
+            "id": "c15fd2998ea47a49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "General_Notes/Training_Material/Help New Members get spun up.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "General_Notes/Training_Material/Help New Members get spun up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "General_Notes/Training_Material/Help New Members get spun up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "General_Notes/Training_Material/Help New Members get spun up.md"
               }
             }
           }
@@ -147,8 +147,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5ca26911a7076d19",
+  "active": "c15fd2998ea47a49",
   "lastOpenFiles": [
+    "General_Notes/Personal_Notes/Dump Notes Here.md",
+    "General_Notes/Training_Material/Help New Members get spun up.md",
+    "General_Notes/Access_Forms/Forms Here.md",
+    "README.md",
     "General_Notes/Personal_Notes",
     "General_Notes/Get_Started/Images/init_git.png",
     "General_Notes/Get_Started/Images/open_obsidian.png",
@@ -157,7 +161,6 @@
     "Engagement_1/User_2.md",
     "Engagement_2/User_2.md",
     "Engagement_2/User_1.md",
-    "README.md",
     "General_Notes/Get_Started/Images/plugin_verify.png",
     "General_Notes/Get_Started/Branching_Strategy.canvas",
     "General_Notes/Get_Started/Images/Branching_Strategy.png",
