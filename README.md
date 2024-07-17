@@ -59,4 +59,3 @@ Use the following `slash` commands within one of your notes. This will initializ
 
 [Review the documentation to the Git plugin ](https://publish.obsidian.md/git-doc/Features) for additional details on how to work with Git within Obsidian. New branches, local commits, and pushes to remote repos (Github, Gitlab, etc...)
 
-/gitcomm
