@@ -12,7 +12,7 @@ This project requires some knowledge of Git and the following installed on the m
 	2) Pandoc Plugin
 	3) Slash Commands
 ```
-/git
+
 ## Get Started
 
 Screenshots are linked within this document.
