@@ -12,7 +12,7 @@ This project requires some knowledge of Git and the following installed on the m
 	2) Pandoc Plugin
 	3) Slash Commands
 ```
-
+/git
 ## Get Started
 
 Screenshots are linked within this document.
@@ -38,7 +38,7 @@ Open the vault from the Application.
 
 Note: This will be where you performed the git clone to.
 ```
-![[open_obsidian.png]]
+![](General_Notes/Get_Started/Images/open_obsidian.png)
 **Verify Plugins**
 ```python
 Ensure the 'Git' and 'Pandoc'  community plugins are enabled
@@ -46,16 +46,17 @@ Ensure the 'Git' and 'Pandoc'  community plugins are enabled
 Ensure the Slash commands 'core plugins' enabled
 ```
 
-![[plugin_verify.png]]
+
+![](General_Notes/Get_Started/Images/plugin_verify.png)
 ## Collaboration Method
 At this point, a slight greater knowledge is required by at least one member of the team to keep the notes in check. I image the branching strategy to ensure that things remain consistent and maintainable. This is just a suggestion and should be tailored to your own team needs.
 
-![[Branching_Strategy.png]]
+![](General_Notes/Get_Started/Images/Branching_Strategy.png)
 
 
 ### Git
 Use the following `slash` commands within one of your notes. This will initialize the repo for your environment.
-![[init_git.png]]
+![](init_git.png)
 
 [Review the documentation to the Git plugin ](https://publish.obsidian.md/git-doc/Features) for additional details on how to work with Git within Obsidian. New branches, local commits, and pushes to remote repos (Github, Gitlab, etc...)
 
